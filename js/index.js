@@ -451,7 +451,7 @@ function loadPairs(url) {
       chartPairs.push("BINANCE:BNBUSDT");
       chartPairs.push("BINANCE:ADAUSDT");
       chartPairs.push("BINANCE:SOLUSDT");
-      chartPairs.push("BINANCE:SRMUSDT");
+      chartPairs.push("BITKUB:KUBTHB");
     }
   }
   let chartPUrl = location.origin + "/?";
