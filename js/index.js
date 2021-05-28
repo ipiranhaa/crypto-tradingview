@@ -454,7 +454,7 @@ function loadPairs(url) {
       chartPairs.push("BITKUB:KUBTHB");
     }
   }
-  let chartPUrl = location.origin + "/?";
+  let chartPUrl = location.origin + "/crypto-tradingview/?";
   chartPairs.forEach(function (_) {
     chartPUrl += "chart=" + _ + "&";
   });
